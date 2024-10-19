@@ -4,19 +4,19 @@
     "url": "https://blog.buyfakett.top",
     "icon": "https://icons.duckduckgo.com/ip3/blog.buyfakett.top.ico",
     "slug": "blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2106,
-    "timeDay": 2036,
-    "timeWeek": 1989,
-    "timeMonth": 2108,
-    "timeYear": 2106,
+    "status": "up",
+    "uptime": "99.69%",
+    "uptimeDay": "90.52%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
+    "time": 2152,
+    "timeDay": 2817,
+    "timeWeek": 2190,
+    "timeMonth": 2156,
+    "timeYear": 2152,
     "dailyMinutesDown": {
-      "2024-10-19": 0
+      "2024-10-19": 137
     }
   }
 ]
