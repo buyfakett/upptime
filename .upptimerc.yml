@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: blog
-    url: https://blog.buyfakett.top
+    url: https://blog.tteam.icu
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
