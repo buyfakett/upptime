@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 464,
-    "timeDay": 584,
-    "timeWeek": 783,
-    "timeMonth": 543,
+    "timeDay": 688,
+    "timeWeek": 765,
+    "timeMonth": 554,
     "timeYear": 464,
     "dailyMinutesDown": {
       "2024-10-19": 137
@@ -25,17 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/img.tteam.icu.ico",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 464,
-    "timeDay": 584,
-    "timeWeek": 783,
-    "timeMonth": 543,
+    "timeDay": 688,
+    "timeWeek": 765,
+    "timeMonth": 554,
     "timeYear": 464,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-19": 137
+    }
   },
   {
     "name": "流量分析",
@@ -49,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 464,
-    "timeDay": 584,
-    "timeWeek": 783,
-    "timeMonth": 543,
+    "timeDay": 688,
+    "timeWeek": 765,
+    "timeMonth": 554,
     "timeYear": 464,
     "dailyMinutesDown": {
       "2024-10-19": 137
@@ -69,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 464,
-    "timeDay": 584,
-    "timeWeek": 783,
-    "timeMonth": 543,
+    "timeDay": 688,
+    "timeWeek": 765,
+    "timeMonth": 554,
     "timeYear": 464,
     "dailyMinutesDown": {
       "2024-10-19": 137
@@ -89,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 464,
-    "timeDay": 584,
-    "timeWeek": 783,
-    "timeMonth": 543,
+    "timeDay": 688,
+    "timeWeek": 765,
+    "timeMonth": 554,
     "timeYear": 464,
     "dailyMinutesDown": {
       "2024-10-19": 137
