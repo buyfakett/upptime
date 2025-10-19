@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 484,
-    "timeDay": 1599,
-    "timeWeek": 916,
-    "timeMonth": 791,
+    "timeDay": 1710,
+    "timeWeek": 884,
+    "timeMonth": 790,
     "timeYear": 484,
-    "dailyMinutesDown": {
-      "2024-10-19": 137
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "图床",
@@ -31,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 484,
-    "timeDay": 1599,
-    "timeWeek": 916,
-    "timeMonth": 791,
+    "timeDay": 1710,
+    "timeWeek": 884,
+    "timeMonth": 790,
     "timeYear": 484,
-    "dailyMinutesDown": {
-      "2024-10-19": 137
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "流量分析",
@@ -51,13 +47,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 484,
-    "timeDay": 1599,
-    "timeWeek": 916,
-    "timeMonth": 791,
+    "timeDay": 1710,
+    "timeWeek": 884,
+    "timeMonth": 790,
     "timeYear": 484,
-    "dailyMinutesDown": {
-      "2024-10-19": 137
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "关于我",
@@ -71,13 +65,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 484,
-    "timeDay": 1599,
-    "timeWeek": 916,
-    "timeMonth": 791,
+    "timeDay": 1710,
+    "timeWeek": 884,
+    "timeMonth": 790,
     "timeYear": 484,
-    "dailyMinutesDown": {
-      "2024-10-19": 137
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "笔记",
@@ -91,12 +83,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 484,
-    "timeDay": 1599,
-    "timeWeek": 916,
-    "timeMonth": 791,
+    "timeDay": 1710,
+    "timeWeek": 884,
+    "timeMonth": 790,
     "timeYear": 484,
-    "dailyMinutesDown": {
-      "2024-10-19": 137
-    }
+    "dailyMinutesDown": {}
   }
 ]
